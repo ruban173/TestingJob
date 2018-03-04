@@ -1,0 +1,187 @@
+2018-03-04 12:47:10 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('', Array)
+#1 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2018-03-04 12:47:09 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'HTTP_HOST' => 'epknew.ru'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://epknew.ru/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'PATH' => 'd:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\ext;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear\\bin;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6;d:\\opserver\\ospanel\\modules\\imagemagick;d:\\opserver\\ospanel\\modules\\wget\\bin;d:\\opserver\\ospanel\\modules\\git;d:\\opserver\\ospanel\\modules\\git\\bin;d:\\opserver\\ospanel\\modules\\git\\mingw\\bin;d:\\opserver\\ospanel\\modules\\git\\cmd;d:\\opserver\\ospanel\\modules\\database\\MySQL-5.6\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'epknew.ru'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OPServer/OSPanel/domains/epknew.ru/web/index.php'
+    'REMOTE_PORT' => '48690'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1520156829.503
+    'REQUEST_TIME' => 1520156829
+    'argv' => []
+    'argc' => 0
+]
+2018-03-04 12:49:50 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/index".' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#1 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2018-03-04 12:49:50 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'HTTP_HOST' => 'epknew.ru'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://epknew.ru/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'PATH' => 'd:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\ext;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear\\bin;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6;d:\\opserver\\ospanel\\modules\\imagemagick;d:\\opserver\\ospanel\\modules\\wget\\bin;d:\\opserver\\ospanel\\modules\\git;d:\\opserver\\ospanel\\modules\\git\\bin;d:\\opserver\\ospanel\\modules\\git\\mingw\\bin;d:\\opserver\\ospanel\\modules\\git\\cmd;d:\\opserver\\ospanel\\modules\\database\\MySQL-5.6\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'epknew.ru'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OPServer/OSPanel/domains/epknew.ru/web/index.php'
+    'REMOTE_PORT' => '48821'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1520156990.186
+    'REQUEST_TIME' => 1520156990
+    'argv' => []
+    'argc' => 0
+]
+2018-03-04 12:56:22 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "site/index".' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#1 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\OPServer\OSPanel\domains\epknew.ru\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\OPServer\OSPanel\domains\epknew.ru\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2018-03-04 12:56:22 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'bdf5ebi8um7amfkhb12nrvitt1'
+    '_csrf' => '2347ae047aa7162942e4e5d5ee6ac639375205604d5689eec141223ecbdfd971a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Kuv2nLDMpECnIr0Fw18sakwWhMqoz2X6\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'epknew.ru'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=bdf5ebi8um7amfkhb12nrvitt1; _csrf=2347ae047aa7162942e4e5d5ee6ac639375205604d5689eec141223ecbdfd971a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Kuv2nLDMpECnIr0Fw18sakwWhMqoz2X6%22%3B%7D'
+    'PATH' => 'd:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\ext;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6\\pear\\bin;d:\\opserver\\ospanel\\modules\\php\\PHP-5.6;d:\\opserver\\ospanel\\modules\\imagemagick;d:\\opserver\\ospanel\\modules\\wget\\bin;d:\\opserver\\ospanel\\modules\\git;d:\\opserver\\ospanel\\modules\\git\\bin;d:\\opserver\\ospanel\\modules\\git\\mingw\\bin;d:\\opserver\\ospanel\\modules\\git\\cmd;d:\\opserver\\ospanel\\modules\\database\\MySQL-5.6\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4\\bin;d:\\opserver\\ospanel\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'epknew.ru'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/OPServer/OSPanel/domains/epknew.ru'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/OPServer/OSPanel/domains/epknew.ru/web/index.php'
+    'REMOTE_PORT' => '48948'
+    'REDIRECT_URL' => '/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1520157382.002
+    'REQUEST_TIME' => 1520157382
+    'argv' => []
+    'argc' => 0
+]
